@@ -1,6 +1,6 @@
-# VERSION: 1.25
-# AUTHORS: Douman (custparasite@gmx.se)
-# CONTRIBUTORS: Diego de las Heras (ngosang@hotmail.es)
+#VERSION: 1.25
+#AUTHORS: Douman (custparasite@gmx.se)
+#CONTRIBUTORS: Diego de las Heras (ngosang@hotmail.es)
 #              hannsen (github.com/hannsen)
 
 # Redistribution and use in source and binary forms, with or without
